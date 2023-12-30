@@ -1,8 +1,6 @@
 # Ex.06 Book Front Cover Page Design
 ## DATE: 22.11.2023
 ##  NAME: H. AARON
-## Reference no: 23012368
-
 ## AIM:
 To design a book front cover page using HTML and CSS.
 
